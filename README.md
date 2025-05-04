@@ -41,7 +41,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/saylani-clone.git
+git clone https://github.com/your-AunZaidii/saylani-Website-clone.git
 Open index.html in any modern browser.
 
 📷 Screenshots
