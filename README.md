@@ -1,4 +1,5 @@
 Saylani Welfare Website Clone
+
 This repository contains a clone of the Saylani Welfare website built using HTML5 only. It is a static replica intended for educational purposes, focusing on HTML structuring and web layout using semantic elements.
 
 🌐 Live Preview
